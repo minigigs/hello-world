@@ -1,2 +1,2 @@
 # hello-world
-This repository is used to test GitHub features
+This repository is used to test GitHub unneeded features
